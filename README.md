@@ -1,2 +1,2 @@
 # Chech2_BOLARD
-simple website
+sample website
